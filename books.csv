@@ -1,0 +1,246 @@
+name,author,publisher,genre,read
+Robinson Crusoe,Daniel Dafoe,İskele,Klasik,Hayır
+Don Kişot,Cervantes,İskele,Klasik,Hayır
+Parma Manastırı,Stendhal,İskele,Klasik,Hayır
+Beyaz Diş,Jack London,İskele,Klasik,Hayır
+Kırmızı ve Siyah,Stendhal,İskele,Klasik,Hayır
+Vahşetin Çağrısı,Jack London,İskele,Klasik,Hayır
+Martin Eden,Jack London,İskele,Klasik,Hayır
+Monte Kristo Kontu,Jack London,İskele,Klasik,Hayır
+Sefiller,Victor Hugo,İskele,Klasik,Hayır
+Notre Dame'in Kamburu,Victor Hugo,İskele,Klasik,Hayır
+İki Şehrin Hikayesi,Charles Dickens,İskele,Klasik,Hayır
+Böyle Buyurdu Zerdüşt,Friedrich Nietzsche,İskele,Felsefe,Hayır
+Devlet,Platon,İskele,Felsefe,Hayır
+Ölü Canlar,Gogol,İskele,Klasik,Hayır
+Babalar ve Oğullar,Turgenyev,İskele,Klasik,Hayır
+Madame Bovary,Gustave Flaubert,İskele,Klasik,Hayır
+Bir Aşk Sayfası,Emile Zola,İskele,Klasik,Hayır
+Meyhane,Emile Zola,İskele,Klasik,Hayır
+Nana,Emile Zola,İskele,Klasik,Hayır
+Denemeler,Montaigne,İskele,Klasik,Hayır
+Benim Üniversitelerim,Maksim Gorki,İskele,Modern Klasik,Evet
+Genç Werther'in Acıları,Goethe,İskele,Klasik,Hayır
+Yüzbaşının Kızı,Puşkin,İskele,Modern Klasik,Evet
+Hacı Bektaş Ocağı Yeniçeriler,M. Turhan Tan,Nokta Kitap,Tarih,Hayır
+Bizans'ın Elinde Bir Şehzade Cem Sultan,Vera Mutafchieva,Nokta Kitap,Tarih,Hayır
+İttihat ve Terakki Enver Paşa,A. Şerif Aksoy,Nokta Kitap,Tarih,Hayır
+Saraydan Sürgüne Vahdettin,Halil İbrahim İnal,Nokta Kitap,Tarih,Hayır
+Moskof Cariyesi Hürrem,Fairfax Downey,Nokta Kitap,Tarih,Hayır
+Osmanlı İmparatorluğu Tarihi,Halil İbrahim İnal,Nokta Kitap,Tarih,Hayır
+Rumeli'ye Veda Balkan Harbi,Mahmud Muhtar,Nokta Kitap,Tarih,Hayır
+Padişah Anaları,Ahmet Naci,Nokta Kitap,Tarih,Hayır
+1453 Fetih,Chedomil Mijatovich,Nokta Kitap,Tarih,Hayır
+Masaldan Gerçeğe Lale Devri,M. Turhan Tan,Nokta Kitap,Tarih,Hayır
+Kurtlar Sofrası 2. Abdülhamid,A. Tekin Kutlu,Nokta Kitap,Tarih,Hayır
+Son Umut Çanakkale,Mustafa Karaca,Nokta Kitap,Tarih,Hayır
+Otuzunda Kadın,Balzac,Kumsaati Yayınları,Klasik,Hayır
+Vadideki Zambak,Balzac,İskele,Klasik,Hayır
+Goriot Baba,Balzac,İskele,Klasik,Hayır
+Yeraltından Notlar,Dostoyevski,İskele,Klasik,Hayır
+Ezilenler,Dostoyevski,İskele,Klasik,Hayır
+Delikanlı,Dosteyevski,İskele,Klasik,Hayır
+Budala (2 Cilt),Dostoyevski,İskele,Klasik,Hayır
+Suç ve Ceza (2 Cilt),Dostoyevski,İskele,Klasik,Hayır
+Ölü Evinden Anılar,Dostoyevski,İskele,Klasik,Hayır
+Karamazov Kardeşler (2 Cilt),Dostoyevski,İskele,Klasik,Hayır
+Anna Karenina (2 Cilt),Tolstoy,İskele,Klasik,Hayır
+Kazaklar,Tolstoy,İskele,Klasik,Hayır
+Çocukluk,Tolstoy,İskele,Klasik,Hayır
+Diriliş,Tolstoy,İskele,Klasik,Hayır
+Savaş ve Barış,Tolstoy,İskele,Klasik,Hayır
+Beyaz Geceler,Dostoyevski,İskele,Klasik,Hayır
+Ana,Maksim Gorki,İskele,Modern Klasik,Hayır
+Budala (2 Cilt),Dostoyevski,Aden,Klasik,Hayır
+İskandinav Mitolojisi,Johannes E. Ingemann,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Türk Mitolojisi,Anthony E. Ocean,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Yunan Mitolojisi,Roberto C. Canova,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Çin Mitolojisi,Yunanji C. Liyuan,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Mısır Mitolojisi,Albert A. Renner,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Anadolu Mitolojisi,Tarık Zafer,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Hint Mitolojisi,Ramasvami R. Bose,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Aztek ve Maya Mitolojisi,William Gates,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Gılgamış Destanı,Stephen Mitchell,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Roma Mitolojisi,Roberto C. Canova,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Ortadoğu Mitolojisi,Tarık Zafer,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+İbrani Mitolojisi,Shamuel Y. Brodsky,Mitoloji Tarihi Yayınları,Mitoloji,Hayır
+Fahrenheit 451,Ray Bradbury,İthaki,Bilim Kurgu,Evet
+1984,George Orwell,Can Yayınları,Bilim Kurgu,Evet
+Üç Sahtekar,Arthur Machen,İthaki,Korku,Hayır
+Yüce Tanrı Pan,Arthur Machen,İthaki,Korku,Evet
+Yürek Burgusu,Henry James,İthaki,Korku,Hayır
+Cthulhu'nun Çağrısı,H. P. Lovecraft,Alfa,Korku,Hayır
+Delilik Dağlarında,H. P. Lovecraft,Alfa,Korku,Hayır
+The Witcher 1: The Last Wish,Andrzej Sapkowski,Fantasy Orbit,Fantastik, Evet
+The Witcher 2: Kader Kılıcı,Andrzej Sapkowski,Pegasus,Fantastik, Evet
+The Witcher 3: The Blood of Elves,Andrzej Sapkowski,Fantasy Orbit,Fantastik, Evet
+The Witcher 4: Nefret Çağı,Andrzej Sapkowski,Pegasus,Fantastik, Evet
+The Witcher 5: Ateşle İmtihan,Andrzej Sapkowski,Pegasus,Fantastik, Evet
+The Witcher 6: The Tower of Swallows,Andrzej Sapkowski,Fantasy Orbit,Fantastik, Evet
+The Witcher 7: The Lady of the Lake,Andrzej Sapkowski,Fantasy Orbit,Fantastik, Evet
+Kralsız Diyar,Ed Greenwood,İthaki,Fantastik,Hayır
+Sahipsiz Taht,Ed Greenwood,İthaki,Fantastik,Hayır
+Ejderhanın Yükselişi,Ed Greenwood,İthaki,Fantastik,Hayır
+Ejderhanın Sonu,Ed Greenwood,İthaki,Fantastik,Hayır
+Drizzt Efsanesi 1: Anayurt,R. A. Salvatore,İthaki,Fantastik,Evet
+Drizzt Efsanesi 2: Sürgün,R. A. Salvatore,İthaki,Fantastik,Evet
+Drizzt Efsanesi 3: Göç,R. A. Salvatore,İthaki,Fantastik,Evet
+Drizzt Efsanesi 4: Kristal Parçası,R. A. Salvatore,İthaki,Fantastik,Evet
+Drizzt Efsanesi 5: Gümüş Damarları, . A. Salvatore,İthaki,Fantastik,Hayır
+Drizzt Efsanesi 6: Buçukluğun Mücevheri,R. A. Salvatore,İthaki,Fantastik,Hayır
+Güz Alacakaranlığı Ejderhaları,Wess ve Hickman,İthaki,Fantastik,Hayır
+Warcraft: Ejderhanın Günü,Richard A. Knaak,Artemis Yayınları,Fanatastik,Evet
+Warcraft: Son Bekçi,Jeff Grubb,Artemis Yayınları,Fanatastik,Evet
+Warcraft: Büyük Şef,Christie Golden,Artemis Yayınları,Fanatastik,Evet
+Warcraft Manga 1: Ejder Avı,Richard A. Knaak,Artemis Yayınları,Çizgi Roman,Evet
+Warcraft Manga 2: ,Richard A. Knaak,Artemis Yayınları,Çizgi Roman,Evet
+Warcraft Manga 3: Hayalet Topraklar,Richard A. Knaak,Artemis Yayınları,Çizgi Roman,Evet
+Warcraft Efsaneler 1,Çok Yazar,Doğan Egmont,Çizgi Roman,Evet
+Warcraft Efsaneler 2,Çok Yazar,Doğan Egmont,Çizgi Roman,Evet
+Warcraft Efsaneler 3,Çok Yazar,Doğan Egmont,Çizgi Roman,Evet
+The Witcher: Witcher Evreni,Çok Yazar,Pegasus,Fantastik,Hayır
+Dalgaların Sesi,Yukio Mişima,Can Yayınları,Roman,Evet
+Altın Köşk Tapınağı,Yukio Mişima,Can Yayınları,Roman,Hayır
+Bahar Karları,Yukio Mişima,Can Yayınları,Roman,Evet
+Bir Maskenin İtirafları,Yukio Mişima,Can Yayınları,Roman,Hayır
+Kaçak Atlar,Yukio Mişima,Can Yayınları,Roman,Hayır
+Şafak Tapınağı,Yukio Mişima,Can Yayınları,Roman,Hayır
+Meleğin Çürüyüşü,Yukio Mişima,Can Yayınları,Roman,Hayır
+Dune,Frank Herbert,İthaki,Bilim Kurgu,Evet
+Dune Mesihi,Frank Herbert,İthaki,Bilim Kurgu,Hayır
+Dune Çocukları,Frank Herbert,İthaki,Bilim Kurgu,Hayır
+Dune Tanrı İmparatoru,Frank Herbert,İthaki,Bilim Kurgu,Hayır
+Cesur Yeni Dünya,Aldous Huxley,İthaki,Bilim Kurgu,Evet
+Çocukluğun Sonu,Arthur C. Clarke,İthaki,Bilim Kurgu,Evet
+Sürgün Gezegeni,Ursula K. Le Guin,İthaki,Bilim Kurgu,Hayır
+Kadınlar Ülkesi,Charlotte Perkins Gilman,İthaki,Bilim Kurgu,Hayır
+Işık Tanrısı,Roger Zelazny,İthaki,Bilim Kurgu,Hayır
+Bioshock: Rapture Şehri,John Shirley,İthaki,Fantastik,Hayır
+Conan (Cilt 1),Robert E. Howard,İthaki,Fantastik,Hayır
+Metro 2033,Dmitry Glukhovsky,Panama Yayınları,Bilim Kurgu,Hayır
+Metro 2034,Dmitry Glukhovsky,Panama Yayınları,Bilim Kurgu,Hayır
+Metro 2035,Dmitry Glukhovsky,Panama Yayınları,Bilim Kurgu,Hayır
+Herbert West: Diriltici,H. P. Lovecraft,Alfa,Korku,Hayır
+Dunwich Dehşeti,H. P. Lovecraft,Alfa,Korku,Hayır
+Hobbit (Açıklamalı Notlarıyla),J. R. R. Tolkien,İthaki,Fantastik,Hayır
+Kadın ve Kedisi,Makato Şinkai,Gerekli Şeyler,Çizgi Roman,Evet
+Tokyo Gul 1,Sui İşida,Gerekli Şeyler,Çizgi Roman,Evet
+Tokyo Gul 2,Sui İşida,Gerekli Şeyler,Çizgi Roman,Evet
+Tokyo Gul 3,Sui İşida,Gerekli Şeyler,Çizgi Roman,Evet
+Tokyo Gul 4,Sui İşida,Gerekli Şeyler,Çizgi Roman,Evet
+Berserk 1,Kentaro Miura,Gerekli Şeyler,Çizgi Roman,Evet
+Berserk 2,Kentaro Miura,Gerekli Şeyler,Çizgi Roman,Evet
+Berserk 3,Kentaro Miura,Gerekli Şeyler,Çizgi Roman,Evet
+Berserk 4,Kentaro Miura,Gerekli Şeyler,Çizgi Roman,Evet
+Ajin Yarı-İnsan 1,Gamon Sakurai,Gerekli Şeyler,Çizgi Roman,Evet
+Ajin Yarı-İnsan 2,Gamon Sakurai,Gerekli Şeyler,Çizgi Roman,Evet
+Ajin Yarı-İnsan 3,Gamon Sakurai,Gerekli Şeyler,Çizgi Roman,Evet
+Ajin Yarı-İnsan 4,Gamon Sakurai,Gerekli Şeyler,Çizgi Roman,Evet
+Ajin Yarı-İnsan 5,Gamon Sakurai,Gerekli Şeyler,Çizgi Roman,Evet
+Ajin Yarı-İnsan 6,Gamon Sakurai,Gerekli Şeyler,Çizgi Roman,Evet
+Ajin Yarı-İnsan 7,Gamon Sakurai,Gerekli Şeyler,Çizgi Roman,Evet
+Ajin Yarı-İnsan 8,Gamon Sakurai,Gerekli Şeyler,Çizgi Roman,Evet
+Ajin Yarı-İnsan 9,Gamon Sakurai,Gerekli Şeyler,Çizgi Roman,Evet
+İnsan Nedir?,Mark Twain,Dedalus Yayınları,Felsefe,Evet
+Yürümenin Felsefesi,Frederic Gros,Kolektif Kitap,Felsefe,Evet
+İkigai Japonların Uzun ve Mutlu Yaşam Sırrı,Garcia ve Miralles,İndigo Kitap,Kişisel Gelişim,Evet
+İkigai Uygulama Rehberi,Garcia ve Miralles,İndigo Kitap,Kişisel Gelişim,Hayır
+Hüzün Hastalığı,Kemal Sayar,Kapı Yayınları,Psikoloji,Hayır
+Sokratesi'in Savunması,Platon,Sis Yayınları,Felsefe,Hayır
+Walden,Henry David Thoreau,Zeplin,Felsefe,Hayır
+Cep Kaynağı: Felsefe,Çok Yazar,NTV Yayınları,Felsefe,Hayır
+Cahil Filozof,Voltaire,Kırmızı Kedi Yayınları,Felsefe,Hayır
+Coşkuyla Ölmek,Şule Gürbüz,İletişim Yayınları,Roman,Evet
+Mantıku't-Tayr: Kuşların Diliyle,Feridü'd-din Altar,Kaknüs Yayınları,Tasavvuf,Hayır
+Gezgin,Halil Cibran,İş Bankası Kültür Yayınları,Şiir,Evet
+Hayvanlardan Tanrılara: Sapiens,Yuval Boah Harari,Kolektif Kitap,Tarih,Hayır
+Aklın Gözü,Oliver Sacks,Yapı Kredi Yayınları,Bilim
+Incognito: Beynin Gizli Hayatı,David Eagleman,Domingo Yayınevi,Bilim,Hayır
+İyi Hissetmek,David Burns,Psikonet Yayınları,Psikoloji,Hayır
+Hiç Yoktan Bir Evren,Lawrence M.Krauss,Aylak Kitap,Bilim,Hayır
+Mutlu Beyin,Bahri Karaçay,Tübitak,Bilim,Hayır
+Karanlık Bir Dünyada Bilimin Mum Işığı,Carl Sagan,Tübitak,Bilim,Hayır
+Türlerin Kökeni,Charles Darwin,Evrensel Basım Yayın,Bilim,Hayır
+Kör Saatçi,Richard Dawkins,Tübitak,Bilim,Hayır
+Evrenin Dokusu,Brian Greene,Tübitak,Bilim,Hayır
+Çizgilerle Psikoloji Yeni Başlayanlar İçin Psikoloji,Klein ve Oppenheimer,Domingo Yayınevi,Psikoloji,Hayır
+Kavgam,Adolf Hitler,-,Tarih,Hayır
+Genç Okurlar İçin Dünya Tarihi,Ernst H. Gombrich,İnkılap Kitapevi,Tarih,Hayır
+Kısa Dünya Tarihi,J. M. Roberts,İnkılap Kitapevi,Tarih,Hayır
+Birinci Dünya Savaşı Tarihi,Basil Lidell Hart,İş Bankası Kültür Yayınları,Tarih,Hayır
+İkinci Dünya Savaşı Tarihi,Basil Lidell Hart,İş Bankası Kültür Yayınları,Tarih,Hayır
+Doğru Gıda,Bond ve Breyer ve Gordon,Hürriyet Kitap,Başvuru,Hayır
+1984 (Cep Boy),George Orwell,Can Yayınları,Bilim Kurgu,Evet
+Yalnız Bir Avcıdır Yürek,Carson McCullers,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Olağanüstü Bir Gece,Stefan Zweig,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Doktor Jekyll ile Bay Hyde: Tuhaf Bir Vaka,Robert Louis Stevenson,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Korku,Stefan Zweig,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Mecburiyet,Stefan Zweig,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Dönüşüm,Franz Kafka,İş Bankası Kültür Yayınları,Modern Klasik,Hayır
+Zaman Makinesi: Bir Buluş,H. G. Wells,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Ekmeğimi Kazanırken,Maksim Gorki,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Sineklerin Tanrısı,William Golding,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Vanya Dayı,Anton Çehov,İş Bankası Kültür Yayınları,Modern Klasik,Hayır
+Bozkır: Bir Yolculuk Hikayesi,Anton Çehov,İş Bankası Kültür Yayınları,Modern Klasik,Hayır
+Altıncı Koğuş,Anton Çehov,İş Bankası Kültür Yayınları,Modern Klasik,Hayır
+Artamonovlar,Maksim Gorki,İş Bankası Kültür Yayınları,Modern Klasik,Hayır
+Şeytan'ın Günlüğü,Leonid Andreyev,İş Bankası Kültür Yayınları,Modern Klasik,Hayır
+Yirmi Aşk Şiiri ve Umutsuz Bir Şarkı,Pablo Neruda,İş Bankası Kültür Yayınları,Şiir,Evet
+Satranç,Stefan Zweig,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Altın Gözde Yansımalar,Carson McCullers,İş Bankası Kültür Yayınları,Modern Klasik,Hayır
+Ay Işığı Sokağı,Stefan Zweig,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Köpek Kalbi,Mihail Bulgakov,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Genç Bir Doktorun Anıları,Mihail Bulgakov,İş Bankası Kültür Yayınları,Modern Klasik,Evet
+Mutlu Prens,Oscar Wilde,İş Bankası Kültür Yayınları,Modern Klasik,Hayır
+İngiliz ve Amerikan Edebiyatında Kısa Öykünün Büyük Ustaları,Çok Yazar,İş Bankası Kültür Yayınları,Modern Klasik,Hayır
+Güneş de Doğar,Ernest Hemingway,Bilgi Yayınevi,Modern Klasik,Hayır
+İçimizdeki Şeytan,Sabahattin Ali,Yapı Kredi Yayınları,Türk Edebiyatı,Hayır
+Yüzyıllık Yalnızlık,Gabriel Garcia Marquez,Can Yayınları,Roman,Hayır
+Çanlar Kimin İçin Çalıyor,Ernest Hemingway,Kumsaati Yayınları,Klasik,Hayır
+Kendime Düşünceler,Marcus Aurelius,İş Bankası Kültür Yayınları,Felsefe,Hayır
+İvan İlyiç'in Ölümü,Tolstoy,İş Bankası Kültür Yayınları,Klasik,Hayır
+New York Seyir Defteri,Buket Uzuner,Everest Yayınları,Gezi Yazısı,Hayır
+Savaş Sanatı,Sun Tzu,Arya Yayıncılık,Felsefe,Evet
+Kuşlar da Gitti,Yaşar Kemal,Yapı Kredi Yayınları,Türk Edebiyatı,Evet
+Yılanı Öldürseler,Yaşar Kemal,Yapı Kredi Yayınları,Türk Edebiyatı,Evet
+Bir Ada Hikayesi 1: Fırat Suyu Kan Akıyor Baksana,Yaşar Kemal,Yapı Kredi Yayınları,Türk Edebiyatı,Hayır
+Martin Eden (Orijinal),Jack London,Karbon Kitaplar,Modern Klasik,Hayır
+Güzel Sarı Tuna,Jules Verne,Tübitak,Roman,Hayır
+Macellanya,Jules Verne,Tübitak,Roman,Hayır
+The Catcher In The Rye,J. D. Salinger,Penguin Books,Evet
+Dalgalar,Virginia Woolf,İndigo Kitap,Roman,Hayır
+Ethical Hacking: Offensive & Defensive,Ömer Çıtak,Level Kitap,Bilgisayar,Hayır
+Lügat 365: Bazı Kelimeler Çok Güzel,Can Yayınları,Can Yayınları,Dil,Hayır
+Mesaj,Edip Yüksel,Ozan Yayıncılık,Din,Hayır
+Babalar ve Oğullar,Turgenyev,Can Yayınları,Klasik,Hayır
+Vakıf,Asimov,İthaki,Bilim Kurgu,Hayır
+Vakıf ve İmparatorluk,Asimov,İthaki,Bilim Kurgu,Hayır
+İkinci Vakıf,Asimov,İthaki,Bilim Kurgu,Hayır
+Salgın,Erin Bowman,Epsilon Yayınevi,Bilim Kurgu,Evet
+The Book of M: Kıyamet Başlıyor,Peng Shepherd,Ephesus Yayınları,Bilim Kurgu,Hayır
+Semerkant,Amin Maalouf,Yapı Kredi Yayınları,Roman,Hayır
+Hayvan Çiftliği,George Orwell,Can Yayınları,Roman,Hayır
+İlaca Dair,Ayşe İncesu GÜrsel,Tübitak,Bilim,Hayır
+Şifalı Bitkiler,Haranki ve Haranki,Hayat Yayınları,Başvuru,Hayır
+Burada Ejderhalar Yaşar,James A. Owen,Tudem Yayınevi,Fantastik,Hayır
+Kızıl Ejderi Ararken,James A. Owen,Tudem Yayınevi,Fantastik,Hayır
+Çivit Kral,James A. Owen,Tudem Yayınevi,Fantastik,Hayır
+Narnia Günlükleri 1: Büyücünün Çırağı,C. S. Lewis,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Narnia Günlükleri 2: Aslan Cadı ve Dolap,C. S. Lewis,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Narnia Günlükleri 3: At ve Çocuk,C. S. Lewis,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Narnia Günlükleri 4: Prens Caspian,C. S. Lewis,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Narnia Günlükleri 5: Şafak Yıldızı'nın Yolculuğu,C. S. Lewis,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Narnia Günlükleri 6: Gümüş Sandalye,C. S. Lewis,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Narnia Günlükleri 7: Son Savaş,C. S. Lewis,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Percy Jackson 1: Şimşek Hırsızı,Rick Riordan,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Evet
+Percy Jackson 2: Canavarlar Denizi,Rick Riordan,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Evet
+Percy Jackson 3: Titan'ın Laneti,Rick Riordan,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Evet
+Percy Jackson 5: Son Olimposlu,Rick Riordan,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Evet
+Percy Jackson 6: Melez Dosyaları,Rick Riordan,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Evet
+Şifrelerin Matematiği: Kriptografi,Çok Yazar,Odtü Geliştirme Vakfı Yayıncılık,Bilim,Hayır
+Olimpos Kahramanları 1: Kayıp Kahraman,Rick Riordan,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Olimpos Kahramanları 2: Neptün'ün Oğlu,Rick Riordan,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Kane Günceleri 1: Kırmızı Piramit,Rick Riordan,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Kane Günceleri 2: Ateş Tahtı,Rick Riordan,Doğan Egmont Çocuk Kitapları,Çocuk Fantastik,Hayır
+Birinci Dünya Savaşı,Michael Howard,Dost Kitabevi,Tarih,Hayır
+Yunan ve Roma Mitolojisi,Estin ve Laporte,Tübitak,Mitoloji,Hayır
